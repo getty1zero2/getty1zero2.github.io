@@ -6,4 +6,4 @@ This was my first project I started in order to learn basic HTML/CSS and Bootstr
 
  Feel free to contact me or check out my content!
 
-* [LinkedIn]([https://www.linkedin.com/in/jesse-gettert-9b0abb132/])
+* [LinkedIn](https://www.linkedin.com/in/jesse-gettert-9b0abb132/)
