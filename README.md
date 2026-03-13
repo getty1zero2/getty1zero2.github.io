@@ -1,2 +1,7 @@
 # getty1zero2.github.io
-My portfolio
+# My portfolio
+
+## About Me: 
+## Skills:
+## Projects:
+## Contact Info:
